@@ -1,0 +1,23 @@
+{
+  "name": "algoritmos-encriptacion",
+  "version": "1.0.0",
+  "description": "Implementación de algoritmos AES y RSA para curso de desarrollo seguro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NZubia/algoritmos-encriptacion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NZubia/algoritmos-encriptacion/issues"
+  },
+  "homepage": "https://github.com/NZubia/algoritmos-encriptacion#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-rsa": "^1.1.1"
+  }
+}
